@@ -1,2 +1,2 @@
 # Climate-AI
-WebDev Project
+Web Development Project
